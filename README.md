@@ -13,7 +13,7 @@
 Python 3.6.5
 
 # 한글시계는 윈도우, 맥, 안드로이드 버전으로도 존재합니다!
-홈페이지 -> https//hangulclock.today
+홈페이지 -> https://hangulclock.today 
 
 # 라이선스
 GPLv3(GNU General Public License v3)
