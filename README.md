@@ -1,2 +1,19 @@
-# Python-HangulClock
-Unofficial HangulClock Python Module. https://hangulclock.today
+# 레포지토리 정보
+한글시계를 파이썬에서 사용하기 위해 만들어진 프로젝트입니다.
+파이썬의 한계로 인해 아직은 이미지를 조합하여 이미지를 출력하는(?) 형식입니다.
+
+# 참고해 주세요
+`1000X1500` 사이즈의 배경과 텍스트, 시계 디자인을 모두 조합해서 출력하는 형식입니다.
+이미지의 크기가 변경될 경우, 직접 코드 수정을 하시기 바랍니다.
+
+# 저작권 관련
+"HangulClock For Python"는 "한글시계" Mac, Window버전을 만드신 "이상훈"님께 허락을 받아 만들어 졌으며, **비공식 프로젝트입니다.**
+
+# 파이썬 버전
+Python 3.6.5
+
+# 한글시계는 윈도우, 맥, 안드로이드 버전으로도 존재합니다!
+홈페이지 -> https//hangulclock.today
+
+# 라이선스
+GPLv3(GNU General Public License v3)
